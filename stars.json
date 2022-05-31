@@ -7,9 +7,9 @@
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 22451,
-    "open_issues_count": 125,
-    "forks_count": 1303
+    "stargazers_count": 22472,
+    "open_issues_count": 126,
+    "forks_count": 1302
   },
   {
     "full_name": "progit2-sv/progit2",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "James-Yu/LaTeX-Workshop",
-    "stargazers_count": 8443,
+    "stargazers_count": 8451,
     "open_issues_count": 11,
-    "forks_count": 426
+    "forks_count": 427
   },
   {
     "full_name": "stvansolano/fsharp-codespace",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 3311,
-    "open_issues_count": 153,
-    "forks_count": 1122
+    "stargazers_count": 3327,
+    "open_issues_count": 158,
+    "forks_count": 1125
   },
   {
     "full_name": "carolstran/cv",
     "stargazers_count": 75,
     "open_issues_count": 1,
-    "forks_count": 131
+    "forks_count": 130
   },
   {
     "full_name": "AndrewMagerman/wizard-book-study",
@@ -55,37 +55,37 @@
   },
   {
     "full_name": "technomancy/leiningen",
-    "stargazers_count": 7233,
+    "stargazers_count": 7235,
     "open_issues_count": 113,
     "forks_count": 1649
   },
   {
     "full_name": "zyedidia/micro",
-    "stargazers_count": 19544,
-    "open_issues_count": 645,
-    "forks_count": 1011
+    "stargazers_count": 19567,
+    "open_issues_count": 646,
+    "forks_count": 1012
   },
   {
     "full_name": "mhammond/pywin32",
-    "stargazers_count": 3740,
-    "open_issues_count": 433,
-    "forks_count": 693
+    "stargazers_count": 3749,
+    "open_issues_count": 432,
+    "forks_count": 694
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 32987,
-    "open_issues_count": 776,
-    "forks_count": 3000
+    "stargazers_count": 33049,
+    "open_issues_count": 775,
+    "forks_count": 3007
   },
   {
     "full_name": "pandas-dev/pandas",
-    "stargazers_count": 34034,
-    "open_issues_count": 3556,
-    "forks_count": 14479
+    "stargazers_count": 34075,
+    "open_issues_count": 3553,
+    "forks_count": 14481
   },
   {
     "full_name": "alexhyett/terraform-s3-static-website",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 45
   },
@@ -97,20 +97,20 @@
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 8798,
-    "open_issues_count": 774,
-    "forks_count": 2040
+    "stargazers_count": 8813,
+    "open_issues_count": 770,
+    "forks_count": 2044
   },
   {
     "full_name": "Kong/kong",
-    "stargazers_count": 31957,
-    "open_issues_count": 350,
-    "forks_count": 4198
+    "stargazers_count": 31991,
+    "open_issues_count": 349,
+    "forks_count": 4199
   },
   {
     "full_name": "rancher-sandbox/rancher-desktop",
-    "stargazers_count": 3511,
-    "open_issues_count": 468,
+    "stargazers_count": 3522,
+    "open_issues_count": 471,
     "forks_count": 151
   },
   {
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "lux-org/lux",
-    "stargazers_count": 3921,
+    "stargazers_count": 3940,
     "open_issues_count": 65,
     "forks_count": 307
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 28636,
-    "open_issues_count": 362,
-    "forks_count": 3745
+    "stargazers_count": 28679,
+    "open_issues_count": 365,
+    "forks_count": 3760
   },
   {
     "full_name": "nuitsjp/AdventureWorks-for-SQLite",
@@ -139,43 +139,43 @@
   },
   {
     "full_name": "mps-youtube/mps-youtube",
-    "stargazers_count": 7123,
+    "stargazers_count": 7125,
     "open_issues_count": 355,
-    "forks_count": 609
+    "forks_count": 607
   },
   {
     "full_name": "react-bootstrap/react-bootstrap",
-    "stargazers_count": 20725,
+    "stargazers_count": 20741,
     "open_issues_count": 167,
-    "forks_count": 3338
+    "forks_count": 3340
   },
   {
     "full_name": "pikvm/pikvm",
-    "stargazers_count": 4641,
+    "stargazers_count": 4669,
     "open_issues_count": 65,
     "forks_count": 306
   },
   {
     "full_name": "mozilla/geckodriver",
-    "stargazers_count": 5970,
-    "open_issues_count": 194,
-    "forks_count": 1480
+    "stargazers_count": 5974,
+    "open_issues_count": 195,
+    "forks_count": 1481
   },
   {
     "full_name": "freeCodeCamp/devdocs",
-    "stargazers_count": 28768,
+    "stargazers_count": 28802,
     "open_issues_count": 128,
     "forks_count": 1929
   },
   {
     "full_name": "shd101wyy/markdown-preview-enhanced",
-    "stargazers_count": 3646,
-    "open_issues_count": 855,
-    "forks_count": 482
+    "stargazers_count": 3650,
+    "open_issues_count": 854,
+    "forks_count": 486
   },
   {
     "full_name": "simonw/til",
-    "stargazers_count": 473,
+    "stargazers_count": 474,
     "open_issues_count": 7,
     "forks_count": 45
   }
