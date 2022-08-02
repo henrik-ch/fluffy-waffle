@@ -1,15 +1,15 @@
 [
   {
     "full_name": "nmaggiulli/of-dollars-and-data",
-    "stargazers_count": 306,
+    "stargazers_count": 309,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "axios/axios",
-    "stargazers_count": 94843,
-    "open_issues_count": 157,
-    "forks_count": 9687
+    "stargazers_count": 94910,
+    "open_issues_count": 159,
+    "forks_count": 9689
   },
   {
     "full_name": "janeklb/gh-search",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "rbren/rss-parser",
-    "stargazers_count": 1021,
+    "stargazers_count": 1023,
     "open_issues_count": 37,
     "forks_count": 163
   },
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "ritwickdey/vscode-live-server",
-    "stargazers_count": 4112,
-    "open_issues_count": 1828,
+    "stargazers_count": 4120,
+    "open_issues_count": 1833,
     "forks_count": 822
   },
   {
     "full_name": "fzumstein/python-for-excel",
-    "stargazers_count": 268,
+    "stargazers_count": 269,
     "open_issues_count": 0,
-    "forks_count": 139
+    "forks_count": 141
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 22761,
+    "stargazers_count": 22782,
     "open_issues_count": 130,
-    "forks_count": 1318
+    "forks_count": 1319
   },
   {
     "full_name": "progit2-sv/progit2",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "James-Yu/LaTeX-Workshop",
-    "stargazers_count": 8584,
-    "open_issues_count": 7,
+    "stargazers_count": 8597,
+    "open_issues_count": 8,
     "forks_count": 439
   },
   {
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 3595,
-    "open_issues_count": 188,
-    "forks_count": 1224
+    "stargazers_count": 3605,
+    "open_issues_count": 185,
+    "forks_count": 1227
   },
   {
     "full_name": "carolstran/cv",
-    "stargazers_count": 79,
+    "stargazers_count": 80,
     "open_issues_count": 1,
     "forks_count": 134
   },
@@ -103,27 +103,27 @@
   },
   {
     "full_name": "zyedidia/micro",
-    "stargazers_count": 19873,
-    "open_issues_count": 665,
-    "forks_count": 1030
+    "stargazers_count": 19890,
+    "open_issues_count": 668,
+    "forks_count": 1031
   },
   {
     "full_name": "mhammond/pywin32",
-    "stargazers_count": 3850,
+    "stargazers_count": 3854,
     "open_issues_count": 442,
     "forks_count": 705
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 33884,
-    "open_issues_count": 784,
-    "forks_count": 3091
+    "stargazers_count": 33935,
+    "open_issues_count": 792,
+    "forks_count": 3095
   },
   {
     "full_name": "pandas-dev/pandas",
-    "stargazers_count": 34697,
-    "open_issues_count": 3496,
-    "forks_count": 14739
+    "stargazers_count": 34716,
+    "open_issues_count": 3485,
+    "forks_count": 14752
   },
   {
     "full_name": "alexhyett/terraform-s3-static-website",
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 9045,
-    "open_issues_count": 776,
-    "forks_count": 2098
+    "stargazers_count": 9053,
+    "open_issues_count": 777,
+    "forks_count": 2101
   },
   {
     "full_name": "Kong/kong",
-    "stargazers_count": 32546,
-    "open_issues_count": 377,
-    "forks_count": 4248
+    "stargazers_count": 32589,
+    "open_issues_count": 382,
+    "forks_count": 4256
   },
   {
     "full_name": "rancher-sandbox/rancher-desktop",
-    "stargazers_count": 3734,
-    "open_issues_count": 557,
-    "forks_count": 161
+    "stargazers_count": 3741,
+    "open_issues_count": 564,
+    "forks_count": 162
   },
   {
     "full_name": "Dev-Elie/Flask-Docker-App",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "lux-org/lux",
-    "stargazers_count": 4089,
+    "stargazers_count": 4097,
     "open_issues_count": 68,
     "forks_count": 319
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 29319,
-    "open_issues_count": 381,
-    "forks_count": 3941
+    "stargazers_count": 29347,
+    "open_issues_count": 385,
+    "forks_count": 3959
   },
   {
     "full_name": "nuitsjp/AdventureWorks-for-SQLite",
