@@ -7,9 +7,9 @@
   },
   {
     "full_name": "axios/axios",
-    "stargazers_count": 95099,
-    "open_issues_count": 165,
-    "forks_count": 9700
+    "stargazers_count": 95152,
+    "open_issues_count": 166,
+    "forks_count": 9708
   },
   {
     "full_name": "janeklb/gh-search",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "rbren/rss-parser",
-    "stargazers_count": 1028,
+    "stargazers_count": 1030,
     "open_issues_count": 37,
     "forks_count": 163
   },
@@ -37,19 +37,19 @@
   },
   {
     "full_name": "ritwickdey/vscode-live-server",
-    "stargazers_count": 4142,
-    "open_issues_count": 1838,
-    "forks_count": 827
+    "stargazers_count": 4148,
+    "open_issues_count": 1847,
+    "forks_count": 830
   },
   {
     "full_name": "fzumstein/python-for-excel",
-    "stargazers_count": 275,
+    "stargazers_count": 278,
     "open_issues_count": 0,
     "forks_count": 145
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 22822,
+    "stargazers_count": 22837,
     "open_issues_count": 130,
     "forks_count": 1324
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "James-Yu/LaTeX-Workshop",
-    "stargazers_count": 8640,
+    "stargazers_count": 8647,
     "open_issues_count": 8,
     "forks_count": 440
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 3634,
-    "open_issues_count": 189,
-    "forks_count": 1236
+    "stargazers_count": 3648,
+    "open_issues_count": 191,
+    "forks_count": 1247
   },
   {
     "full_name": "carolstran/cv",
@@ -97,33 +97,33 @@
   },
   {
     "full_name": "technomancy/leiningen",
-    "stargazers_count": 7265,
-    "open_issues_count": 109,
-    "forks_count": 1655
+    "stargazers_count": 7267,
+    "open_issues_count": 110,
+    "forks_count": 1654
   },
   {
     "full_name": "zyedidia/micro",
-    "stargazers_count": 19951,
-    "open_issues_count": 673,
-    "forks_count": 1033
+    "stargazers_count": 19966,
+    "open_issues_count": 674,
+    "forks_count": 1035
   },
   {
     "full_name": "mhammond/pywin32",
-    "stargazers_count": 3867,
-    "open_issues_count": 445,
-    "forks_count": 705
+    "stargazers_count": 3871,
+    "open_issues_count": 446,
+    "forks_count": 706
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 34095,
-    "open_issues_count": 793,
-    "forks_count": 3114
+    "stargazers_count": 34151,
+    "open_issues_count": 794,
+    "forks_count": 3124
   },
   {
     "full_name": "pandas-dev/pandas",
-    "stargazers_count": 34823,
-    "open_issues_count": 3499,
-    "forks_count": 14804
+    "stargazers_count": 34879,
+    "open_issues_count": 3492,
+    "forks_count": 14829
   },
   {
     "full_name": "alexhyett/terraform-s3-static-website",
@@ -139,39 +139,39 @@
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 9078,
-    "open_issues_count": 789,
-    "forks_count": 2120
+    "stargazers_count": 9091,
+    "open_issues_count": 778,
+    "forks_count": 2123
   },
   {
     "full_name": "Kong/kong",
-    "stargazers_count": 32657,
-    "open_issues_count": 388,
-    "forks_count": 4256
+    "stargazers_count": 32686,
+    "open_issues_count": 383,
+    "forks_count": 4259
   },
   {
     "full_name": "rancher-sandbox/rancher-desktop",
-    "stargazers_count": 3791,
-    "open_issues_count": 581,
+    "stargazers_count": 3805,
+    "open_issues_count": 584,
     "forks_count": 162
   },
   {
     "full_name": "Dev-Elie/Flask-Docker-App",
     "stargazers_count": 12,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 17
   },
   {
     "full_name": "lux-org/lux",
-    "stargazers_count": 4133,
+    "stargazers_count": 4136,
     "open_issues_count": 68,
-    "forks_count": 326
+    "forks_count": 327
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 29432,
-    "open_issues_count": 388,
-    "forks_count": 3986
+    "stargazers_count": 29470,
+    "open_issues_count": 384,
+    "forks_count": 4001
   },
   {
     "full_name": "nuitsjp/AdventureWorks-for-SQLite",
