@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "divamgupta/diffusionbee-stable-diffusion-ui",
+    "stargazers_count": 4294,
+    "open_issues_count": 65,
+    "forks_count": 101
+  },
+  {
     "full_name": "wikihouseproject/Skylark",
-    "stargazers_count": 92,
+    "stargazers_count": 101,
     "open_issues_count": 3,
     "forks_count": 14
   },
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "axios/axios",
-    "stargazers_count": 95752,
-    "open_issues_count": 189,
-    "forks_count": 9769
+    "stargazers_count": 95816,
+    "open_issues_count": 194,
+    "forks_count": 9772
   },
   {
     "full_name": "janeklb/gh-search",
@@ -25,14 +31,14 @@
   },
   {
     "full_name": "rbren/rss-parser",
-    "stargazers_count": 1043,
+    "stargazers_count": 1046,
     "open_issues_count": 41,
     "forks_count": 166
   },
   {
     "full_name": "Refinitiv/Real-Time-SDK",
     "stargazers_count": 141,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 107
   },
   {
@@ -43,21 +49,21 @@
   },
   {
     "full_name": "ritwickdey/vscode-live-server",
-    "stargazers_count": 4370,
-    "open_issues_count": 1883,
+    "stargazers_count": 4381,
+    "open_issues_count": 1887,
     "forks_count": 869
   },
   {
     "full_name": "fzumstein/python-for-excel",
     "stargazers_count": 289,
     "open_issues_count": 0,
-    "forks_count": 169
+    "forks_count": 170
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 23003,
-    "open_issues_count": 129,
-    "forks_count": 1330
+    "stargazers_count": 23014,
+    "open_issues_count": 131,
+    "forks_count": 1332
   },
   {
     "full_name": "progit2-sv/progit2",
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "James-Yu/LaTeX-Workshop",
-    "stargazers_count": 8719,
+    "stargazers_count": 8730,
     "open_issues_count": 5,
     "forks_count": 448
   },
@@ -85,15 +91,15 @@
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 3824,
-    "open_issues_count": 197,
-    "forks_count": 1288
+    "stargazers_count": 3838,
+    "open_issues_count": 199,
+    "forks_count": 1300
   },
   {
     "full_name": "carolstran/cv",
     "stargazers_count": 83,
     "open_issues_count": 0,
-    "forks_count": 141
+    "forks_count": 143
   },
   {
     "full_name": "AndrewMagerman/wizard-book-study",
@@ -103,33 +109,33 @@
   },
   {
     "full_name": "technomancy/leiningen",
-    "stargazers_count": 7275,
+    "stargazers_count": 7274,
     "open_issues_count": 110,
     "forks_count": 1655
   },
   {
     "full_name": "zyedidia/micro",
-    "stargazers_count": 20273,
-    "open_issues_count": 690,
-    "forks_count": 1042
+    "stargazers_count": 20303,
+    "open_issues_count": 692,
+    "forks_count": 1043
   },
   {
     "full_name": "mhammond/pywin32",
-    "stargazers_count": 3927,
-    "open_issues_count": 447,
+    "stargazers_count": 3931,
+    "open_issues_count": 440,
     "forks_count": 714
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 34595,
-    "open_issues_count": 820,
-    "forks_count": 3164
+    "stargazers_count": 34664,
+    "open_issues_count": 823,
+    "forks_count": 3165
   },
   {
     "full_name": "pandas-dev/pandas",
-    "stargazers_count": 35203,
-    "open_issues_count": 3514,
-    "forks_count": 14971
+    "stargazers_count": 35259,
+    "open_issues_count": 3532,
+    "forks_count": 14989
   },
   {
     "full_name": "alexhyett/terraform-s3-static-website",
@@ -145,20 +151,20 @@
   },
   {
     "full_name": "pytest-dev/pytest",
-    "stargazers_count": 9219,
-    "open_issues_count": 788,
-    "forks_count": 2138
+    "stargazers_count": 9232,
+    "open_issues_count": 793,
+    "forks_count": 2144
   },
   {
     "full_name": "Kong/kong",
-    "stargazers_count": 32908,
-    "open_issues_count": 392,
+    "stargazers_count": 32938,
+    "open_issues_count": 396,
     "forks_count": 4275
   },
   {
     "full_name": "rancher-sandbox/rancher-desktop",
-    "stargazers_count": 3903,
-    "open_issues_count": 610,
+    "stargazers_count": 3914,
+    "open_issues_count": 622,
     "forks_count": 171
   },
   {
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "lux-org/lux",
-    "stargazers_count": 4187,
+    "stargazers_count": 4191,
     "open_issues_count": 71,
     "forks_count": 330
-  },
-  {
-    "full_name": "cli/cli",
-    "stargazers_count": 29839,
-    "open_issues_count": 407,
-    "forks_count": 4139
   }
 ]
