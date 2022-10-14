@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "nix-community/awesome-nix",
+    "stargazers_count": 1030,
+    "open_issues_count": 10,
+    "forks_count": 66
+  },
+  {
     "full_name": "nzbr/NixOS-WSL",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -21,31 +27,31 @@
     "full_name": "craigsdennis/intro-to-apis-flask",
     "stargazers_count": 57,
     "open_issues_count": 1,
-    "forks_count": 129
+    "forks_count": 130
   },
   {
     "full_name": "craigsdennis/intro-to-apis-course",
-    "stargazers_count": 1987,
+    "stargazers_count": 1992,
     "open_issues_count": 3,
-    "forks_count": 904
+    "forks_count": 907
   },
   {
     "full_name": "open-sauced/docs.opensauced.pizza",
-    "stargazers_count": 15,
-    "open_issues_count": 15,
+    "stargazers_count": 17,
+    "open_issues_count": 17,
     "forks_count": 18
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 798,
-    "open_issues_count": 17,
-    "forks_count": 401
+    "open_issues_count": 18,
+    "forks_count": 407
   },
   {
     "full_name": "divamgupta/diffusionbee-stable-diffusion-ui",
-    "stargazers_count": 5378,
-    "open_issues_count": 137,
-    "forks_count": 175
+    "stargazers_count": 5496,
+    "open_issues_count": 146,
+    "forks_count": 183
   },
   {
     "full_name": "wikihouseproject/Skylark",
@@ -55,15 +61,15 @@
   },
   {
     "full_name": "nmaggiulli/of-dollars-and-data",
-    "stargazers_count": 319,
+    "stargazers_count": 321,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "axios/axios",
-    "stargazers_count": 96480,
-    "open_issues_count": 230,
-    "forks_count": 9864
+    "stargazers_count": 96595,
+    "open_issues_count": 244,
+    "forks_count": 9884
   },
   {
     "full_name": "janeklb/gh-search",
@@ -73,14 +79,14 @@
   },
   {
     "full_name": "rbren/rss-parser",
-    "stargazers_count": 1051,
+    "stargazers_count": 1054,
     "open_issues_count": 41,
     "forks_count": 168
   },
   {
     "full_name": "Refinitiv/Real-Time-SDK",
     "stargazers_count": 142,
-    "open_issues_count": 21,
+    "open_issues_count": 17,
     "forks_count": 107
   },
   {
@@ -91,21 +97,21 @@
   },
   {
     "full_name": "ritwickdey/vscode-live-server",
-    "stargazers_count": 4449,
-    "open_issues_count": 1913,
-    "forks_count": 889
+    "stargazers_count": 4455,
+    "open_issues_count": 1916,
+    "forks_count": 892
   },
   {
     "full_name": "fzumstein/python-for-excel",
-    "stargazers_count": 303,
+    "stargazers_count": 305,
     "open_issues_count": 0,
-    "forks_count": 177
+    "forks_count": 178
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 23182,
+    "stargazers_count": 23200,
     "open_issues_count": 133,
-    "forks_count": 1341
+    "forks_count": 1340
   },
   {
     "full_name": "progit2-sv/progit2",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "James-Yu/LaTeX-Workshop",
-    "stargazers_count": 8780,
-    "open_issues_count": 6,
-    "forks_count": 455
+    "stargazers_count": 8822,
+    "open_issues_count": 5,
+    "forks_count": 457
   },
   {
     "full_name": "stvansolano/fsharp-codespace",
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 3889,
-    "open_issues_count": 217,
-    "forks_count": 1318
+    "stargazers_count": 3909,
+    "open_issues_count": 203,
+    "forks_count": 1321
   },
   {
     "full_name": "carolstran/cv",
@@ -152,31 +158,25 @@
   {
     "full_name": "technomancy/leiningen",
     "stargazers_count": 7283,
-    "open_issues_count": 110,
-    "forks_count": 1653
+    "open_issues_count": 109,
+    "forks_count": 1654
   },
   {
     "full_name": "zyedidia/micro",
-    "stargazers_count": 20439,
-    "open_issues_count": 700,
-    "forks_count": 1054
+    "stargazers_count": 20452,
+    "open_issues_count": 699,
+    "forks_count": 1056
   },
   {
     "full_name": "mhammond/pywin32",
-    "stargazers_count": 3961,
-    "open_issues_count": 443,
+    "stargazers_count": 3970,
+    "open_issues_count": 446,
     "forks_count": 715
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 34943,
-    "open_issues_count": 833,
-    "forks_count": 3190
-  },
-  {
-    "full_name": "pandas-dev/pandas",
-    "stargazers_count": 35507,
-    "open_issues_count": 3617,
-    "forks_count": 15133
+    "stargazers_count": 34987,
+    "open_issues_count": 832,
+    "forks_count": 3195
   }
 ]
