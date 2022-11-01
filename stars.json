@@ -7,26 +7,26 @@
   },
   {
     "full_name": "nlewo/nix2container",
-    "stargazers_count": 179,
+    "stargazers_count": 180,
     "open_issues_count": 13,
     "forks_count": 12
   },
   {
     "full_name": "nix-community/NixOS-WSL",
-    "stargazers_count": 556,
-    "open_issues_count": 20,
+    "stargazers_count": 563,
+    "open_issues_count": 18,
     "forks_count": 52
   },
   {
     "full_name": "DDoSolitary/LxRunOffline",
-    "stargazers_count": 3561,
+    "stargazers_count": 3566,
     "open_issues_count": 11,
     "forks_count": 222
   },
   {
     "full_name": "nix-community/awesome-nix",
-    "stargazers_count": 1048,
-    "open_issues_count": 11,
+    "stargazers_count": 1052,
+    "open_issues_count": 10,
     "forks_count": 68
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "craigsdennis/intro-to-apis-node",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 2,
     "forks_count": 64
   },
@@ -51,35 +51,35 @@
     "full_name": "craigsdennis/intro-to-apis-flask",
     "stargazers_count": 58,
     "open_issues_count": 1,
-    "forks_count": 129
+    "forks_count": 130
   },
   {
     "full_name": "craigsdennis/intro-to-apis-course",
-    "stargazers_count": 2013,
+    "stargazers_count": 2020,
     "open_issues_count": 3,
-    "forks_count": 914
+    "forks_count": 917
   },
   {
     "full_name": "open-sauced/docs.opensauced.pizza",
     "stargazers_count": 18,
-    "open_issues_count": 16,
+    "open_issues_count": 15,
     "forks_count": 21
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 803,
+    "stargazers_count": 804,
     "open_issues_count": 9,
-    "forks_count": 420
+    "forks_count": 423
   },
   {
     "full_name": "divamgupta/diffusionbee-stable-diffusion-ui",
-    "stargazers_count": 5875,
-    "open_issues_count": 171,
-    "forks_count": 217
+    "stargazers_count": 5958,
+    "open_issues_count": 175,
+    "forks_count": 227
   },
   {
     "full_name": "wikihouseproject/Skylark",
-    "stargazers_count": 114,
+    "stargazers_count": 115,
     "open_issues_count": 3,
     "forks_count": 14
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "axios/axios",
-    "stargazers_count": 96982,
-    "open_issues_count": 307,
-    "forks_count": 9934
+    "stargazers_count": 97053,
+    "open_issues_count": 282,
+    "forks_count": 9940
   },
   {
     "full_name": "janeklb/gh-search",
@@ -110,7 +110,7 @@
   {
     "full_name": "Refinitiv/Real-Time-SDK",
     "stargazers_count": 141,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 107
   },
   {
@@ -121,20 +121,20 @@
   },
   {
     "full_name": "ritwickdey/vscode-live-server",
-    "stargazers_count": 4489,
-    "open_issues_count": 1927,
-    "forks_count": 900
+    "stargazers_count": 4496,
+    "open_issues_count": 1931,
+    "forks_count": 903
   },
   {
     "full_name": "fzumstein/python-for-excel",
-    "stargazers_count": 310,
+    "stargazers_count": 314,
     "open_issues_count": 0,
-    "forks_count": 179
+    "forks_count": 183
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 23266,
-    "open_issues_count": 135,
+    "stargazers_count": 23278,
+    "open_issues_count": 136,
     "forks_count": 1345
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "James-Yu/LaTeX-Workshop",
-    "stargazers_count": 8886,
+    "stargazers_count": 8895,
     "open_issues_count": 6,
     "forks_count": 461
   },
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 3941,
-    "open_issues_count": 205,
-    "forks_count": 1340
+    "stargazers_count": 3957,
+    "open_issues_count": 208,
+    "forks_count": 1341
   },
   {
     "full_name": "carolstran/cv",
     "stargazers_count": 84,
     "open_issues_count": 0,
-    "forks_count": 145
+    "forks_count": 146
   },
   {
     "full_name": "AndrewMagerman/wizard-book-study",
