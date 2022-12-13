@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "LunarVim/LunarVim",
+    "stargazers_count": 12157,
+    "open_issues_count": 67,
+    "forks_count": 1369
+  },
+  {
+    "full_name": "devcontainers/images",
+    "stargazers_count": 188,
+    "open_issues_count": 16,
+    "forks_count": 67
+  },
+  {
     "full_name": "infinisil/system",
     "stargazers_count": 118,
     "open_issues_count": 0,
@@ -8,56 +20,56 @@
   {
     "full_name": "NixOS/nixos-foundation",
     "stargazers_count": 12,
-    "open_issues_count": 16,
+    "open_issues_count": 15,
     "forks_count": 4
   },
   {
     "full_name": "coreybutler/nvm-windows",
-    "stargazers_count": 24649,
-    "open_issues_count": 81,
-    "forks_count": 2554
+    "stargazers_count": 24712,
+    "open_issues_count": 80,
+    "forks_count": 2561
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 686,
-    "open_issues_count": 39,
+    "stargazers_count": 703,
+    "open_issues_count": 41,
     "forks_count": 34
   },
   {
     "full_name": "nix-community/nix-direnv",
-    "stargazers_count": 704,
+    "stargazers_count": 712,
     "open_issues_count": 6,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "neovim/neovim",
-    "stargazers_count": 60229,
-    "open_issues_count": 1631,
-    "forks_count": 4186
+    "stargazers_count": 60351,
+    "open_issues_count": 1634,
+    "forks_count": 4193
   },
   {
     "full_name": "github/copilot.vim",
-    "stargazers_count": 3850,
+    "stargazers_count": 3867,
     "open_issues_count": 0,
-    "forks_count": 154
+    "forks_count": 155
   },
   {
     "full_name": "josean-dev/dev-environment-files",
-    "stargazers_count": 409,
+    "stargazers_count": 425,
     "open_issues_count": 5,
-    "forks_count": 168
+    "forks_count": 179
   },
   {
     "full_name": "zsh-users/zsh-autosuggestions",
-    "stargazers_count": 24386,
+    "stargazers_count": 24434,
     "open_issues_count": 136,
-    "forks_count": 1620
+    "forks_count": 1629
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 32966,
-    "open_issues_count": 31,
-    "forks_count": 1729
+    "stargazers_count": 33043,
+    "open_issues_count": 34,
+    "forks_count": 1739
   },
   {
     "full_name": "tweag/nix-hour",
@@ -79,21 +91,21 @@
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 1231,
-    "open_issues_count": 61,
-    "forks_count": 41
+    "stargazers_count": 1249,
+    "open_issues_count": 58,
+    "forks_count": 42
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 32535,
-    "open_issues_count": 78,
-    "forks_count": 816
+    "stargazers_count": 32677,
+    "open_issues_count": 84,
+    "forks_count": 822
   },
   {
     "full_name": "microsoft/vscode-remote-release",
-    "stargazers_count": 2881,
-    "open_issues_count": 1022,
-    "forks_count": 196
+    "stargazers_count": 2889,
+    "open_issues_count": 999,
+    "forks_count": 198
   },
   {
     "full_name": "the-nix-way/nix-docker-examples",
@@ -115,19 +127,19 @@
   },
   {
     "full_name": "nix-community/NixOS-WSL",
-    "stargazers_count": 611,
-    "open_issues_count": 19,
-    "forks_count": 55
+    "stargazers_count": 615,
+    "open_issues_count": 20,
+    "forks_count": 56
   },
   {
     "full_name": "DDoSolitary/LxRunOffline",
-    "stargazers_count": 3617,
+    "stargazers_count": 3622,
     "open_issues_count": 12,
-    "forks_count": 225
+    "forks_count": 226
   },
   {
     "full_name": "nix-community/awesome-nix",
-    "stargazers_count": 1103,
+    "stargazers_count": 1109,
     "open_issues_count": 11,
     "forks_count": 69
   },
@@ -139,14 +151,14 @@
   },
   {
     "full_name": "starlingbank/developer-resources",
-    "stargazers_count": 95,
+    "stargazers_count": 96,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "craigsdennis/intro-to-apis-node",
     "stargazers_count": 32,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 67
   },
   {
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "craigsdennis/intro-to-apis-course",
-    "stargazers_count": 2076,
+    "stargazers_count": 2081,
     "open_issues_count": 1,
-    "forks_count": 928
+    "forks_count": 930
   },
   {
     "full_name": "open-sauced/docs.opensauced.pizza",
     "stargazers_count": 20,
     "open_issues_count": 15,
     "forks_count": 21
-  },
-  {
-    "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 817,
-    "open_issues_count": 10,
-    "forks_count": 458
-  },
-  {
-    "full_name": "divamgupta/diffusionbee-stable-diffusion-ui",
-    "stargazers_count": 6832,
-    "open_issues_count": 220,
-    "forks_count": 264
   }
 ]
