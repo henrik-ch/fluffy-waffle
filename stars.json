@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "LnL7/nix-darwin",
+    "stargazers_count": 1357,
+    "open_issues_count": 183,
+    "forks_count": 280
+  },
+  {
+    "full_name": "NixOS/nixos-hardware",
+    "stargazers_count": 917,
+    "open_issues_count": 49,
+    "forks_count": 318
+  },
+  {
+    "full_name": "flox/runix",
+    "stargazers_count": 30,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "gvolpe/neovim-flake",
+    "stargazers_count": 40,
+    "open_issues_count": 1,
+    "forks_count": 16
+  },
+  {
+    "full_name": "flox/flox",
+    "stargazers_count": 218,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "the-nix-way/nome",
     "stargazers_count": 70,
     "open_issues_count": 0,
@@ -7,15 +37,15 @@
   },
   {
     "full_name": "nix-community/nixos-generators",
-    "stargazers_count": 809,
-    "open_issues_count": 48,
+    "stargazers_count": 810,
+    "open_issues_count": 49,
     "forks_count": 95
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 268,
-    "open_issues_count": 19,
-    "forks_count": 23
+    "stargazers_count": 277,
+    "open_issues_count": 22,
+    "forks_count": 25
   },
   {
     "full_name": "nix-dot-dev/nix-flake-example",
@@ -25,14 +55,14 @@
   },
   {
     "full_name": "nix-community/NUR",
-    "stargazers_count": 793,
+    "stargazers_count": 794,
     "open_issues_count": 25,
     "forks_count": 215
   },
   {
     "full_name": "NixOS/nixos-homepage",
-    "stargazers_count": 181,
-    "open_issues_count": 84,
+    "stargazers_count": 182,
+    "open_issues_count": 80,
     "forks_count": 246
   },
   {
@@ -55,25 +85,25 @@
   },
   {
     "full_name": "numtide/treefmt-nix",
-    "stargazers_count": 26,
-    "open_issues_count": 5,
+    "stargazers_count": 27,
+    "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "nvim-orgmode/orgmode",
-    "stargazers_count": 1965,
-    "open_issues_count": 99,
-    "forks_count": 93
+    "stargazers_count": 1977,
+    "open_issues_count": 100,
+    "forks_count": 92
   },
   {
     "full_name": "nvim-lua/kickstart.nvim",
-    "stargazers_count": 3311,
-    "open_issues_count": 46,
-    "forks_count": 496
+    "stargazers_count": 3360,
+    "open_issues_count": 48,
+    "forks_count": 500
   },
   {
     "full_name": "nix-how/nix.ug",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 1,
     "forks_count": 6
   },
@@ -85,15 +115,15 @@
   },
   {
     "full_name": "LunarVim/LunarVim",
-    "stargazers_count": 13071,
-    "open_issues_count": 48,
+    "stargazers_count": 13114,
+    "open_issues_count": 49,
     "forks_count": 1398
   },
   {
     "full_name": "devcontainers/images",
-    "stargazers_count": 280,
+    "stargazers_count": 283,
     "open_issues_count": 17,
-    "forks_count": 131
+    "forks_count": 134
   },
   {
     "full_name": "infinisil/system",
@@ -109,74 +139,44 @@
   },
   {
     "full_name": "coreybutler/nvm-windows",
-    "stargazers_count": 25749,
+    "stargazers_count": 25838,
     "open_issues_count": 78,
-    "forks_count": 2644
+    "forks_count": 2650
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 990,
-    "open_issues_count": 43,
-    "forks_count": 51
+    "stargazers_count": 1003,
+    "open_issues_count": 46,
+    "forks_count": 52
   },
   {
     "full_name": "nix-community/nix-direnv",
-    "stargazers_count": 771,
-    "open_issues_count": 4,
+    "stargazers_count": 772,
+    "open_issues_count": 5,
     "forks_count": 73
   },
   {
     "full_name": "neovim/neovim",
-    "stargazers_count": 62071,
-    "open_issues_count": 1689,
-    "forks_count": 4421
+    "stargazers_count": 62154,
+    "open_issues_count": 1695,
+    "forks_count": 4424
   },
   {
     "full_name": "github/copilot.vim",
-    "stargazers_count": 4139,
+    "stargazers_count": 4165,
     "open_issues_count": 0,
     "forks_count": 157
   },
   {
     "full_name": "josean-dev/dev-environment-files",
-    "stargazers_count": 656,
-    "open_issues_count": 7,
-    "forks_count": 318
+    "stargazers_count": 667,
+    "open_issues_count": 8,
+    "forks_count": 321
   },
   {
     "full_name": "zsh-users/zsh-autosuggestions",
-    "stargazers_count": 25011,
-    "open_issues_count": 142,
-    "forks_count": 1679
-  },
-  {
-    "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 34136,
-    "open_issues_count": 35,
-    "forks_count": 1807
-  },
-  {
-    "full_name": "tweag/nix-hour",
-    "stargazers_count": 19,
-    "open_issues_count": 7,
-    "forks_count": 0
-  },
-  {
-    "full_name": "numtide/flake-utils",
-    "stargazers_count": 564,
-    "open_issues_count": 19,
-    "forks_count": 58
-  },
-  {
-    "full_name": "the-nix-way/nix-flake-dev-environments",
-    "stargazers_count": 21,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "cachix/devenv",
-    "stargazers_count": 1576,
-    "open_issues_count": 91,
-    "forks_count": 69
+    "stargazers_count": 25057,
+    "open_issues_count": 143,
+    "forks_count": 1681
   }
 ]
