@@ -1,8 +1,8 @@
 [
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 257,
-    "open_issues_count": 35,
+    "stargazers_count": 290,
+    "open_issues_count": 32,
     "forks_count": 6
   },
   {
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "the-nix-way/dev-templates",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 2,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "edolstra/flake-compat",
-    "stargazers_count": 150,
-    "open_issues_count": 19,
+    "stargazers_count": 151,
+    "open_issues_count": 20,
     "forks_count": 46
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "Xe/site",
-    "stargazers_count": 466,
-    "open_issues_count": 12,
+    "stargazers_count": 467,
+    "open_issues_count": 16,
     "forks_count": 98
   },
   {
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "msteen/nixos-vscode-server",
-    "stargazers_count": 182,
-    "open_issues_count": 2,
+    "stargazers_count": 186,
+    "open_issues_count": 3,
     "forks_count": 51
   },
   {
     "full_name": "microsoft/WSL",
-    "stargazers_count": 14793,
-    "open_issues_count": 1871,
-    "forks_count": 761
+    "stargazers_count": 14813,
+    "open_issues_count": 1891,
+    "forks_count": 762
   },
   {
     "full_name": "george-hawkins/aws-notes",
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "LnL7/nix-darwin",
-    "stargazers_count": 1395,
+    "stargazers_count": 1408,
     "open_issues_count": 187,
     "forks_count": 283
   },
   {
     "full_name": "NixOS/nixos-hardware",
-    "stargazers_count": 930,
-    "open_issues_count": 46,
-    "forks_count": 328
+    "stargazers_count": 929,
+    "open_issues_count": 47,
+    "forks_count": 330
   },
   {
     "full_name": "flox/runix",
-    "stargazers_count": 41,
+    "stargazers_count": 43,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -103,25 +103,25 @@
   },
   {
     "full_name": "flox/flox",
-    "stargazers_count": 314,
+    "stargazers_count": 317,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "the-nix-way/nome",
-    "stargazers_count": 81,
+    "stargazers_count": 84,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 7
   },
   {
     "full_name": "nix-community/nixos-generators",
-    "stargazers_count": 830,
-    "open_issues_count": 49,
-    "forks_count": 97
+    "stargazers_count": 836,
+    "open_issues_count": 50,
+    "forks_count": 98
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 332,
+    "stargazers_count": 343,
     "open_issues_count": 23,
     "forks_count": 26
   },
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "nix-community/NUR",
-    "stargazers_count": 806,
+    "stargazers_count": 807,
     "open_issues_count": 21,
-    "forks_count": 220
+    "forks_count": 219
   },
   {
     "full_name": "NixOS/nixos-homepage",
-    "stargazers_count": 183,
-    "open_issues_count": 83,
-    "forks_count": 250
+    "stargazers_count": 182,
+    "open_issues_count": 89,
+    "forks_count": 251
   },
   {
     "full_name": "zmre/mac-nix-simple-example",
-    "stargazers_count": 5,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "numtide/treefmt-nix",
-    "stargazers_count": 34,
+    "stargazers_count": 36,
     "open_issues_count": 2,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "nvim-orgmode/orgmode",
-    "stargazers_count": 2021,
+    "stargazers_count": 2032,
     "open_issues_count": 111,
     "forks_count": 97
   },
   {
     "full_name": "nvim-lua/kickstart.nvim",
-    "stargazers_count": 3995,
-    "open_issues_count": 17,
-    "forks_count": 934
+    "stargazers_count": 4059,
+    "open_issues_count": 19,
+    "forks_count": 1033
   }
 ]
