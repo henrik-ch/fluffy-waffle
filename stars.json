@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "NixOS/nix-pills",
+    "stargazers_count": 250,
+    "open_issues_count": 39,
+    "forks_count": 103
+  },
+  {
     "full_name": "gytis-ivaskevicius/nix2vim",
     "stargazers_count": 42,
     "open_issues_count": 5,
@@ -15,7 +21,7 @@
     "full_name": "maralorn/nix-output-monitor",
     "stargazers_count": 284,
     "open_issues_count": 25,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "hsjobeki/nix-types",
@@ -37,14 +43,14 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 233365,
-    "open_issues_count": 261,
-    "forks_count": 33233
+    "stargazers_count": 233839,
+    "open_issues_count": 274,
+    "forks_count": 33382
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 335,
-    "open_issues_count": 25,
+    "stargazers_count": 346,
+    "open_issues_count": 26,
     "forks_count": 6
   },
   {
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "traxys/nvim-flake",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "the-nix-way/dev-templates",
-    "stargazers_count": 122,
+    "stargazers_count": 129,
     "open_issues_count": 2,
-    "forks_count": 13
+    "forks_count": 15
   },
   {
     "full_name": "edolstra/flake-compat",
@@ -79,21 +85,21 @@
   },
   {
     "full_name": "pta2002/nixvim",
-    "stargazers_count": 236,
+    "stargazers_count": 246,
     "open_issues_count": 18,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "NixOS/templates",
-    "stargazers_count": 212,
+    "stargazers_count": 214,
     "open_issues_count": 24,
     "forks_count": 62
   },
   {
     "full_name": "Xe/site",
-    "stargazers_count": 470,
+    "stargazers_count": 477,
     "open_issues_count": 17,
-    "forks_count": 99
+    "forks_count": 98
   },
   {
     "full_name": "StephanieWillis/solar-and-heat-pump-savings",
@@ -103,15 +109,15 @@
   },
   {
     "full_name": "msteen/nixos-vscode-server",
-    "stargazers_count": 190,
-    "open_issues_count": 3,
+    "stargazers_count": 193,
+    "open_issues_count": 4,
     "forks_count": 51
   },
   {
     "full_name": "microsoft/WSL",
-    "stargazers_count": 14870,
-    "open_issues_count": 1908,
-    "forks_count": 770
+    "stargazers_count": 14891,
+    "open_issues_count": 1912,
+    "forks_count": 771
   },
   {
     "full_name": "george-hawkins/aws-notes",
@@ -121,50 +127,50 @@
   },
   {
     "full_name": "LnL7/nix-darwin",
-    "stargazers_count": 1424,
-    "open_issues_count": 194,
+    "stargazers_count": 1432,
+    "open_issues_count": 195,
     "forks_count": 288
   },
   {
     "full_name": "NixOS/nixos-hardware",
-    "stargazers_count": 941,
-    "open_issues_count": 46,
-    "forks_count": 331
+    "stargazers_count": 943,
+    "open_issues_count": 47,
+    "forks_count": 332
   },
   {
     "full_name": "flox/runix",
-    "stargazers_count": 44,
-    "open_issues_count": 5,
+    "stargazers_count": 46,
+    "open_issues_count": 6,
     "forks_count": 1
   },
   {
     "full_name": "gvolpe/neovim-flake",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 1,
     "forks_count": 20
   },
   {
     "full_name": "flox/flox",
-    "stargazers_count": 328,
-    "open_issues_count": 2,
-    "forks_count": 9
+    "stargazers_count": 334,
+    "open_issues_count": 10,
+    "forks_count": 11
   },
   {
     "full_name": "the-nix-way/nome",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "nix-community/nixos-generators",
-    "stargazers_count": 848,
+    "stargazers_count": 855,
     "open_issues_count": 50,
     "forks_count": 98
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 370,
-    "open_issues_count": 20,
+    "stargazers_count": 371,
+    "open_issues_count": 21,
     "forks_count": 30
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "nix-community/NUR",
-    "stargazers_count": 816,
-    "open_issues_count": 21,
-    "forks_count": 219
   }
 ]
