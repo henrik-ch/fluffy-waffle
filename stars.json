@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "starlingbank/developer-resources",
+    "stargazers_count": 99,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
     "full_name": "babashka/scittle",
     "stargazers_count": 264,
     "open_issues_count": 4,
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "maralorn/nix-output-monitor",
-    "stargazers_count": 286,
+    "stargazers_count": 288,
     "open_issues_count": 26,
     "forks_count": 10
   },
@@ -55,15 +61,15 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 235991,
-    "open_issues_count": 317,
-    "forks_count": 33570
+    "stargazers_count": 236424,
+    "open_issues_count": 339,
+    "forks_count": 33605
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 390,
-    "open_issues_count": 45,
-    "forks_count": 6
+    "stargazers_count": 409,
+    "open_issues_count": 42,
+    "forks_count": 7
   },
   {
     "full_name": "ysndr/blog",
@@ -79,15 +85,15 @@
   },
   {
     "full_name": "traxys/nvim-flake",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 17
   },
   {
     "full_name": "the-nix-way/dev-templates",
-    "stargazers_count": 138,
+    "stargazers_count": 140,
     "open_issues_count": 2,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "edolstra/flake-compat",
@@ -97,21 +103,21 @@
   },
   {
     "full_name": "pta2002/nixvim",
-    "stargazers_count": 257,
-    "open_issues_count": 15,
-    "forks_count": 41
+    "stargazers_count": 261,
+    "open_issues_count": 17,
+    "forks_count": 44
   },
   {
     "full_name": "NixOS/templates",
-    "stargazers_count": 221,
-    "open_issues_count": 26,
+    "stargazers_count": 220,
+    "open_issues_count": 27,
     "forks_count": 61
   },
   {
     "full_name": "Xe/site",
-    "stargazers_count": 481,
+    "stargazers_count": 482,
     "open_issues_count": 8,
-    "forks_count": 98
+    "forks_count": 99
   },
   {
     "full_name": "StephanieWillis/solar-and-heat-pump-savings",
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "microsoft/WSL",
-    "stargazers_count": 14998,
-    "open_issues_count": 1944,
-    "forks_count": 775
+    "stargazers_count": 15013,
+    "open_issues_count": 1948,
+    "forks_count": 774
   },
   {
     "full_name": "george-hawkins/aws-notes",
@@ -139,14 +145,14 @@
   },
   {
     "full_name": "LnL7/nix-darwin",
-    "stargazers_count": 1459,
-    "open_issues_count": 200,
+    "stargazers_count": 1468,
+    "open_issues_count": 199,
     "forks_count": 290
   },
   {
     "full_name": "NixOS/nixos-hardware",
-    "stargazers_count": 961,
-    "open_issues_count": 53,
+    "stargazers_count": 968,
+    "open_issues_count": 51,
     "forks_count": 337
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "flox/flox",
-    "stargazers_count": 362,
+    "stargazers_count": 366,
     "open_issues_count": 9,
     "forks_count": 10
   },
   {
     "full_name": "the-nix-way/nome",
-    "stargazers_count": 99,
+    "stargazers_count": 103,
     "open_issues_count": 0,
-    "forks_count": 11
-  },
-  {
-    "full_name": "nix-community/nixos-generators",
-    "stargazers_count": 869,
-    "open_issues_count": 51,
-    "forks_count": 101
+    "forks_count": 9
   }
 ]
