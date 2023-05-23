@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "JeremiahSecrist/nix-img-deploy",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "alper/nix-shorts",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "nixified-ai/flake",
+    "stargazers_count": 205,
+    "open_issues_count": 14,
+    "forks_count": 15
+  },
+  {
     "full_name": "gjlipman/smartmeter",
     "stargazers_count": 23,
     "open_issues_count": 2,
@@ -19,14 +37,14 @@
   },
   {
     "full_name": "ublue-os/fleek",
-    "stargazers_count": 418,
-    "open_issues_count": 37,
-    "forks_count": 12
+    "stargazers_count": 419,
+    "open_issues_count": 38,
+    "forks_count": 13
   },
   {
     "full_name": "spectreconsole/spectre.console",
-    "stargazers_count": 7010,
-    "open_issues_count": 171,
+    "stargazers_count": 7033,
+    "open_issues_count": 169,
     "forks_count": 345
   },
   {
@@ -37,9 +55,9 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 120385,
-    "open_issues_count": 4732,
-    "forks_count": 8996
+    "stargazers_count": 120485,
+    "open_issues_count": 4733,
+    "forks_count": 8998
   },
   {
     "full_name": "starlingbank/developer-resources",
@@ -50,7 +68,7 @@
   {
     "full_name": "babashka/scittle",
     "stargazers_count": 269,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 22
   },
   {
@@ -79,8 +97,8 @@
   },
   {
     "full_name": "maralorn/nix-output-monitor",
-    "stargazers_count": 312,
-    "open_issues_count": 37,
+    "stargazers_count": 315,
+    "open_issues_count": 39,
     "forks_count": 10
   },
   {
@@ -103,15 +121,15 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 239799,
-    "open_issues_count": 405,
-    "forks_count": 33903
+    "stargazers_count": 240112,
+    "open_issues_count": 416,
+    "forks_count": 33932
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 517,
-    "open_issues_count": 45,
-    "forks_count": 12
+    "stargazers_count": 527,
+    "open_issues_count": 41,
+    "forks_count": 13
   },
   {
     "full_name": "ysndr/blog",
@@ -133,9 +151,9 @@
   },
   {
     "full_name": "the-nix-way/dev-templates",
-    "stargazers_count": 178,
+    "stargazers_count": 179,
     "open_issues_count": 3,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "edolstra/flake-compat",
@@ -145,38 +163,20 @@
   },
   {
     "full_name": "pta2002/nixvim",
-    "stargazers_count": 283,
-    "open_issues_count": 13,
-    "forks_count": 48
+    "stargazers_count": 285,
+    "open_issues_count": 11,
+    "forks_count": 49
   },
   {
     "full_name": "NixOS/templates",
-    "stargazers_count": 235,
+    "stargazers_count": 236,
     "open_issues_count": 27,
     "forks_count": 62
   },
   {
     "full_name": "Xe/site",
     "stargazers_count": 489,
-    "open_issues_count": 6,
-    "forks_count": 99
-  },
-  {
-    "full_name": "StephanieWillis/solar-and-heat-pump-savings",
-    "stargazers_count": 6,
-    "open_issues_count": 5,
-    "forks_count": 1
-  },
-  {
-    "full_name": "nix-community/nixos-vscode-server",
-    "stargazers_count": 218,
-    "open_issues_count": 0,
-    "forks_count": 52
-  },
-  {
-    "full_name": "microsoft/WSL",
-    "stargazers_count": 15228,
-    "open_issues_count": 1983,
-    "forks_count": 781
+    "open_issues_count": 7,
+    "forks_count": 100
   }
 ]
