@@ -13,9 +13,9 @@
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 220,
+    "stargazers_count": 224,
     "open_issues_count": 17,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "gjlipman/smartmeter",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "DeterminateSystems/nuenv",
-    "stargazers_count": 71,
+    "stargazers_count": 75,
     "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "ublue-os/fleek",
-    "stargazers_count": 432,
-    "open_issues_count": 39,
+    "stargazers_count": 436,
+    "open_issues_count": 41,
     "forks_count": 14
   },
   {
     "full_name": "spectreconsole/spectre.console",
-    "stargazers_count": 7062,
-    "open_issues_count": 169,
-    "forks_count": 345
+    "stargazers_count": 7080,
+    "open_issues_count": 170,
+    "forks_count": 346
   },
   {
     "full_name": "Urbaino/Fabaceae.CLI",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 120658,
-    "open_issues_count": 4731,
-    "forks_count": 9020
+    "stargazers_count": 120740,
+    "open_issues_count": 4729,
+    "forks_count": 9021
   },
   {
     "full_name": "starlingbank/developer-resources",
@@ -80,7 +80,7 @@
   {
     "full_name": "NixOS/nix-pills",
     "stargazers_count": 258,
-    "open_issues_count": 40,
+    "open_issues_count": 41,
     "forks_count": 106
   },
   {
@@ -121,14 +121,14 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 240713,
-    "open_issues_count": 425,
-    "forks_count": 33981
+    "stargazers_count": 240944,
+    "open_issues_count": 430,
+    "forks_count": 33998
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 548,
-    "open_issues_count": 54,
+    "stargazers_count": 553,
+    "open_issues_count": 49,
     "forks_count": 15
   },
   {
@@ -151,20 +151,20 @@
   },
   {
     "full_name": "the-nix-way/dev-templates",
-    "stargazers_count": 189,
+    "stargazers_count": 192,
     "open_issues_count": 7,
     "forks_count": 24
   },
   {
     "full_name": "edolstra/flake-compat",
-    "stargazers_count": 163,
+    "stargazers_count": 164,
     "open_issues_count": 22,
     "forks_count": 51
   },
   {
     "full_name": "pta2002/nixvim",
-    "stargazers_count": 290,
-    "open_issues_count": 9,
+    "stargazers_count": 291,
+    "open_issues_count": 10,
     "forks_count": 50
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "Xe/site",
-    "stargazers_count": 490,
-    "open_issues_count": 7,
-    "forks_count": 100
+    "stargazers_count": 492,
+    "open_issues_count": 8,
+    "forks_count": 101
   }
 ]
