@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "wimpysworld/nix-config",
+    "stargazers_count": 63,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
     "full_name": "yukiisbored/dot",
     "stargazers_count": 9,
     "open_issues_count": 0,
@@ -13,15 +19,15 @@
   },
   {
     "full_name": "fastai/fastbook",
-    "stargazers_count": 18808,
-    "open_issues_count": 118,
-    "forks_count": 7211
+    "stargazers_count": 18843,
+    "open_issues_count": 119,
+    "forks_count": 7226
   },
   {
     "full_name": "modularml/mojo",
-    "stargazers_count": 8867,
-    "open_issues_count": 79,
-    "forks_count": 179
+    "stargazers_count": 8916,
+    "open_issues_count": 84,
+    "forks_count": 180
   },
   {
     "full_name": "JeremiahSecrist/nix-img-deploy",
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 268,
+    "stargazers_count": 273,
     "open_issues_count": 23,
     "forks_count": 21
   },
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "ublue-os/fleek",
-    "stargazers_count": 473,
-    "open_issues_count": 38,
-    "forks_count": 17
+    "stargazers_count": 474,
+    "open_issues_count": 40,
+    "forks_count": 18
   },
   {
     "full_name": "spectreconsole/spectre.console",
-    "stargazers_count": 7257,
+    "stargazers_count": 7270,
     "open_issues_count": 182,
-    "forks_count": 362
+    "forks_count": 363
   },
   {
     "full_name": "Urbaino/Fabaceae.CLI",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 121645,
-    "open_issues_count": 4748,
-    "forks_count": 9112
+    "stargazers_count": 121723,
+    "open_issues_count": 4742,
+    "forks_count": 9121
   },
   {
     "full_name": "starlingbank/developer-resources",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "NixOS/nix-pills",
-    "stargazers_count": 265,
+    "stargazers_count": 266,
     "open_issues_count": 41,
-    "forks_count": 106
+    "forks_count": 107
   },
   {
     "full_name": "gytis-ivaskevicius/nix2vim",
@@ -115,13 +121,13 @@
   },
   {
     "full_name": "sonowz/vscode-remote-wsl-nixos",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "maralorn/nix-output-monitor",
-    "stargazers_count": 334,
+    "stargazers_count": 336,
     "open_issues_count": 41,
     "forks_count": 10
   },
@@ -145,15 +151,15 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 244210,
-    "open_issues_count": 518,
-    "forks_count": 34298
+    "stargazers_count": 244680,
+    "open_issues_count": 531,
+    "forks_count": 34336
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 661,
+    "stargazers_count": 664,
     "open_issues_count": 66,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "ysndr/blog",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "traxys/nvim-flake",
-    "stargazers_count": 16,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 16
-  },
-  {
-    "full_name": "the-nix-way/dev-templates",
-    "stargazers_count": 233,
-    "open_issues_count": 6,
-    "forks_count": 32
   }
 ]
