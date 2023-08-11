@@ -7,20 +7,20 @@
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 5894,
-    "open_issues_count": 89,
-    "forks_count": 110
+    "stargazers_count": 5908,
+    "open_issues_count": 92,
+    "forks_count": 111
   },
   {
     "full_name": "kovidgoyal/kitty",
-    "stargazers_count": 19512,
+    "stargazers_count": 19546,
     "open_issues_count": 25,
-    "forks_count": 857
+    "forks_count": 860
   },
   {
     "full_name": "wimpysworld/nix-config",
-    "stargazers_count": 95,
-    "open_issues_count": 2,
+    "stargazers_count": 99,
+    "open_issues_count": 1,
     "forks_count": 9
   },
   {
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "fastai/fastbook",
-    "stargazers_count": 18996,
+    "stargazers_count": 19015,
     "open_issues_count": 128,
-    "forks_count": 7287
+    "forks_count": 7293
   },
   {
     "full_name": "modularml/mojo",
-    "stargazers_count": 9159,
-    "open_issues_count": 82,
+    "stargazers_count": 9188,
+    "open_issues_count": 80,
     "forks_count": 187
   },
   {
@@ -69,7 +69,7 @@
     "full_name": "gjlipman/smartmeter",
     "stargazers_count": 27,
     "open_issues_count": 2,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "zmitchell/nixpkgs",
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "DeterminateSystems/nuenv",
-    "stargazers_count": 101,
+    "stargazers_count": 102,
     "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "ublue-os/fleek",
-    "stargazers_count": 529,
+    "stargazers_count": 533,
     "open_issues_count": 44,
     "forks_count": 19
   },
   {
     "full_name": "spectreconsole/spectre.console",
-    "stargazers_count": 7334,
+    "stargazers_count": 7351,
     "open_issues_count": 190,
-    "forks_count": 368
+    "forks_count": 369
   },
   {
     "full_name": "Urbaino/Fabaceae.CLI",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 122157,
-    "open_issues_count": 4326,
-    "forks_count": 9162
+    "stargazers_count": 122272,
+    "open_issues_count": 4325,
+    "forks_count": 9184
   },
   {
     "full_name": "starlingbank/developer-resources",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "NixOS/nix-pills",
-    "stargazers_count": 269,
+    "stargazers_count": 270,
     "open_issues_count": 42,
     "forks_count": 107
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "maralorn/nix-output-monitor",
-    "stargazers_count": 356,
+    "stargazers_count": 361,
     "open_issues_count": 42,
     "forks_count": 10
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 246391,
-    "open_issues_count": 589,
-    "forks_count": 34504
+    "stargazers_count": 246665,
+    "open_issues_count": 598,
+    "forks_count": 34544
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 710,
-    "open_issues_count": 72,
+    "stargazers_count": 719,
+    "open_issues_count": 71,
     "forks_count": 22
   }
 ]
