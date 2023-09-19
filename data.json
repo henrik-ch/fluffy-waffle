@@ -1,15 +1,15 @@
 [
   {
     "full_name": "simonw/sqlite-utils",
-    "stargazers_count": 1313,
+    "stargazers_count": 1315,
     "open_issues_count": 89,
     "forks_count": 89
   },
   {
     "full_name": "freeCodeCamp/devdocs",
-    "stargazers_count": 32317,
-    "open_issues_count": 170,
-    "forks_count": 2193
+    "stargazers_count": 32341,
+    "open_issues_count": 175,
+    "forks_count": 2197
   },
   {
     "full_name": "henrik-ch/open-sauced-goals",
@@ -19,20 +19,20 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 6802,
+    "stargazers_count": 6808,
     "open_issues_count": 89,
     "forks_count": 257
   },
   {
     "full_name": "nix-community/poetry2nix",
-    "stargazers_count": 558,
-    "open_issues_count": 131,
-    "forks_count": 286
+    "stargazers_count": 563,
+    "open_issues_count": 136,
+    "forks_count": 288
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 887,
+    "stargazers_count": 889,
     "open_issues_count": 0,
-    "forks_count": 716
+    "forks_count": 718
   }
 ]
