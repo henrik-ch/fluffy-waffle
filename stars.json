@@ -19,9 +19,9 @@
   },
   {
     "full_name": "nix-community/disko",
-    "stargazers_count": 725,
-    "open_issues_count": 59,
-    "forks_count": 86
+    "stargazers_count": 729,
+    "open_issues_count": 58,
+    "forks_count": 87
   },
   {
     "full_name": "adisbladis/pyproject.nix",
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "nix-community/impermanence",
-    "stargazers_count": 619,
+    "stargazers_count": 620,
     "open_issues_count": 36,
     "forks_count": 44
   },
   {
     "full_name": "wimpysworld/nix-config",
-    "stargazers_count": 145,
-    "open_issues_count": 1,
+    "stargazers_count": 146,
+    "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "pdtpartners/nix-snapshotter",
-    "stargazers_count": 311,
+    "stargazers_count": 315,
     "open_issues_count": 13,
     "forks_count": 4
   },
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 6052,
-    "open_issues_count": 100,
+    "stargazers_count": 6077,
+    "open_issues_count": 106,
     "forks_count": 121
   },
   {
     "full_name": "kovidgoyal/kitty",
-    "stargazers_count": 19931,
-    "open_issues_count": 27,
+    "stargazers_count": 19951,
+    "open_issues_count": 26,
     "forks_count": 862
   },
   {
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "fastai/fastbook",
-    "stargazers_count": 19257,
+    "stargazers_count": 19284,
     "open_issues_count": 133,
     "forks_count": 7402
   },
   {
     "full_name": "modularml/mojo",
-    "stargazers_count": 14505,
-    "open_issues_count": 219,
-    "forks_count": 1745
+    "stargazers_count": 14628,
+    "open_issues_count": 214,
+    "forks_count": 1811
   },
   {
     "full_name": "JeremiahSecrist/nix-img-deploy",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 335,
+    "stargazers_count": 340,
     "open_issues_count": 24,
     "forks_count": 31
   },
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "DeterminateSystems/nuenv",
-    "stargazers_count": 125,
+    "stargazers_count": 126,
     "open_issues_count": 5,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "ublue-os/fleek",
-    "stargazers_count": 569,
-    "open_issues_count": 45,
-    "forks_count": 19
+    "stargazers_count": 574,
+    "open_issues_count": 46,
+    "forks_count": 20
   },
   {
     "full_name": "spectreconsole/spectre.console",
-    "stargazers_count": 7533,
-    "open_issues_count": 174,
-    "forks_count": 386
+    "stargazers_count": 7550,
+    "open_issues_count": 176,
+    "forks_count": 389
   },
   {
     "full_name": "Urbaino/Fabaceae.CLI",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 123599,
+    "stargazers_count": 123663,
     "open_issues_count": 4332,
-    "forks_count": 9339
+    "forks_count": 9356
   },
   {
     "full_name": "starlingbank/developer-resources",
