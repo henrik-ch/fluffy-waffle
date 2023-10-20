@@ -1,27 +1,27 @@
 [
   {
     "full_name": "serokell/nixfmt",
-    "stargazers_count": 429,
+    "stargazers_count": 430,
     "open_issues_count": 32,
     "forks_count": 15
   },
   {
     "full_name": "tazjin/nix-1p",
-    "stargazers_count": 648,
+    "stargazers_count": 652,
     "open_issues_count": 1,
     "forks_count": 22
   },
   {
     "full_name": "ryan4yin/nixos-and-flakes-book",
-    "stargazers_count": 722,
+    "stargazers_count": 731,
     "open_issues_count": 4,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "colemickens/nixcfg",
-    "stargazers_count": 246,
+    "stargazers_count": 249,
     "open_issues_count": 13,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "ryantm/ryantm.com",
@@ -37,31 +37,31 @@
   },
   {
     "full_name": "nix-community/disko",
-    "stargazers_count": 765,
+    "stargazers_count": 769,
     "open_issues_count": 61,
-    "forks_count": 91
+    "forks_count": 93
   },
   {
     "full_name": "adisbladis/pyproject.nix",
     "stargazers_count": 16,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "nix-community/impermanence",
-    "stargazers_count": 636,
+    "stargazers_count": 641,
     "open_issues_count": 36,
     "forks_count": 45
   },
   {
     "full_name": "wimpysworld/nix-config",
-    "stargazers_count": 156,
-    "open_issues_count": 2,
+    "stargazers_count": 160,
+    "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "pdtpartners/nix-snapshotter",
-    "stargazers_count": 344,
+    "stargazers_count": 346,
     "open_issues_count": 16,
     "forks_count": 4
   },
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "nix-systems/nix-systems",
-    "stargazers_count": 77,
+    "stargazers_count": 78,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 6148,
-    "open_issues_count": 109,
-    "forks_count": 122
+    "stargazers_count": 6159,
+    "open_issues_count": 111,
+    "forks_count": 123
   },
   {
     "full_name": "kovidgoyal/kitty",
-    "stargazers_count": 20068,
-    "open_issues_count": 25,
-    "forks_count": 866
+    "stargazers_count": 20099,
+    "open_issues_count": 26,
+    "forks_count": 867
   },
   {
     "full_name": "yukiisbored/dot",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "fastai/fastbook",
-    "stargazers_count": 19398,
-    "open_issues_count": 135,
-    "forks_count": 7450
+    "stargazers_count": 19419,
+    "open_issues_count": 136,
+    "forks_count": 7463
   },
   {
     "full_name": "modularml/mojo",
-    "stargazers_count": 15023,
-    "open_issues_count": 234,
-    "forks_count": 2012
+    "stargazers_count": 15111,
+    "open_issues_count": 242,
+    "forks_count": 2034
   },
   {
     "full_name": "JeremiahSecrist/nix-img-deploy",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 349,
-    "open_issues_count": 26,
-    "forks_count": 34
+    "stargazers_count": 352,
+    "open_issues_count": 16,
+    "forks_count": 35
   },
   {
     "full_name": "gjlipman/smartmeter",
@@ -145,20 +145,20 @@
   },
   {
     "full_name": "DeterminateSystems/nuenv",
-    "stargazers_count": 135,
+    "stargazers_count": 136,
     "open_issues_count": 5,
     "forks_count": 7
   },
   {
     "full_name": "ublue-os/fleek",
-    "stargazers_count": 595,
-    "open_issues_count": 49,
+    "stargazers_count": 597,
+    "open_issues_count": 48,
     "forks_count": 22
   },
   {
     "full_name": "spectreconsole/spectre.console",
-    "stargazers_count": 7643,
-    "open_issues_count": 178,
+    "stargazers_count": 7659,
+    "open_issues_count": 177,
     "forks_count": 395
   },
   {
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 123955,
-    "open_issues_count": 4336,
-    "forks_count": 9413
+    "stargazers_count": 124019,
+    "open_issues_count": 4333,
+    "forks_count": 9423
   },
   {
     "full_name": "starlingbank/developer-resources",
