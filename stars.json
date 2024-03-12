@@ -7,7 +7,7 @@
   },
   {
     "full_name": "OceanSprint/tesh",
-    "stargazers_count": 115,
+    "stargazers_count": 127,
     "open_issues_count": 11,
     "forks_count": 8
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "KillianLucas/open-interpreter",
-    "stargazers_count": 41490,
-    "open_issues_count": 220,
-    "forks_count": 3631
+    "stargazers_count": 41578,
+    "open_issues_count": 223,
+    "forks_count": 3644
   },
   {
     "full_name": "tazjin/nix-1p",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "mechatroner/vscode_rainbow_csv",
-    "stargazers_count": 373,
+    "stargazers_count": 374,
     "open_issues_count": 38,
     "forks_count": 46
   },
   {
     "full_name": "Stirling-Tools/Stirling-PDF",
-    "stargazers_count": 18345,
-    "open_issues_count": 138,
-    "forks_count": 1255
+    "stargazers_count": 18492,
+    "open_issues_count": 137,
+    "forks_count": 1265
   },
   {
     "full_name": "infinisil/sanix",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "oxalica/nil",
-    "stargazers_count": 1025,
+    "stargazers_count": 1034,
     "open_issues_count": 27,
     "forks_count": 33
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 829,
-    "open_issues_count": 4,
-    "forks_count": 53
+    "stargazers_count": 843,
+    "open_issues_count": 5,
+    "forks_count": 54
   },
   {
     "full_name": "ners/trilby",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "Misterio77/nix-starter-configs",
-    "stargazers_count": 1635,
-    "open_issues_count": 17,
-    "forks_count": 84
+    "stargazers_count": 1653,
+    "open_issues_count": 18,
+    "forks_count": 86
   },
   {
     "full_name": "ryantm/dotfiles",
@@ -85,25 +85,25 @@
   },
   {
     "full_name": "Aylur/dotfiles",
-    "stargazers_count": 1606,
-    "open_issues_count": 13,
-    "forks_count": 94
+    "stargazers_count": 1637,
+    "open_issues_count": 10,
+    "forks_count": 97
   },
   {
     "full_name": "serokell/nixfmt",
-    "stargazers_count": 514,
+    "stargazers_count": 516,
     "open_issues_count": 34,
     "forks_count": 18
   },
   {
     "full_name": "ryan4yin/nixos-and-flakes-book",
-    "stargazers_count": 1279,
-    "open_issues_count": 0,
-    "forks_count": 64
+    "stargazers_count": 1289,
+    "open_issues_count": 6,
+    "forks_count": 68
   },
   {
     "full_name": "colemickens/nixcfg",
-    "stargazers_count": 307,
+    "stargazers_count": 308,
     "open_issues_count": 10,
     "forks_count": 9
   },
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "nix-community/nixdoc",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 4,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "nix-community/disko",
-    "stargazers_count": 1087,
+    "stargazers_count": 1097,
     "open_issues_count": 78,
     "forks_count": 126
   },
   {
     "full_name": "nix-community/pyproject.nix",
-    "stargazers_count": 64,
-    "open_issues_count": 1,
+    "stargazers_count": 65,
+    "open_issues_count": 3,
     "forks_count": 7
   },
   {
     "full_name": "nix-community/impermanence",
-    "stargazers_count": 820,
+    "stargazers_count": 822,
     "open_issues_count": 51,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "wimpysworld/nix-config",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "pdtpartners/nix-snapshotter",
-    "stargazers_count": 428,
+    "stargazers_count": 429,
     "open_issues_count": 17,
     "forks_count": 7
   },
@@ -157,19 +157,19 @@
   },
   {
     "full_name": "nix-systems/nix-systems",
-    "stargazers_count": 99,
+    "stargazers_count": 101,
     "open_issues_count": 3,
     "forks_count": 2
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 7050,
-    "open_issues_count": 165,
-    "forks_count": 155
+    "stargazers_count": 7067,
+    "open_issues_count": 162,
+    "forks_count": 157
   },
   {
     "full_name": "kovidgoyal/kitty",
-    "stargazers_count": 21443,
+    "stargazers_count": 21481,
     "open_issues_count": 22,
     "forks_count": 868
   },
