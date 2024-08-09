@@ -1,9 +1,9 @@
 [
   {
     "full_name": "andir/npins",
-    "stargazers_count": 167,
-    "open_issues_count": 32,
-    "forks_count": 12
+    "stargazers_count": 170,
+    "open_issues_count": 33,
+    "forks_count": 14
   },
   {
     "full_name": "rfaulhaber/dotfiles",
@@ -13,8 +13,8 @@
   },
   {
     "full_name": "eza-community/eza",
-    "stargazers_count": 10247,
-    "open_issues_count": 212,
+    "stargazers_count": 10329,
+    "open_issues_count": 213,
     "forks_count": 179
   },
   {
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "sigoden/aichat",
-    "stargazers_count": 3514,
+    "stargazers_count": 3526,
     "open_issues_count": 1,
-    "forks_count": 233
+    "forks_count": 235
   },
   {
     "full_name": "djacu/nixos-modules-lessons",
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "OpenInterpreter/open-interpreter",
-    "stargazers_count": 51327,
-    "open_issues_count": 194,
-    "forks_count": 4487
+    "stargazers_count": 51387,
+    "open_issues_count": 192,
+    "forks_count": 4497
   },
   {
     "full_name": "tazjin/nix-1p",
-    "stargazers_count": 890,
+    "stargazers_count": 892,
     "open_issues_count": 7,
     "forks_count": 24
   },
   {
     "full_name": "mechatroner/vscode_rainbow_csv",
-    "stargazers_count": 404,
+    "stargazers_count": 406,
     "open_issues_count": 43,
     "forks_count": 50
   },
   {
     "full_name": "Stirling-Tools/Stirling-PDF",
-    "stargazers_count": 35662,
-    "open_issues_count": 181,
-    "forks_count": 2654
+    "stargazers_count": 35966,
+    "open_issues_count": 174,
+    "forks_count": 2682
   },
   {
     "full_name": "infinisil/sanix",
@@ -85,25 +85,25 @@
   },
   {
     "full_name": "oxalica/nil",
-    "stargazers_count": 1247,
-    "open_issues_count": 34,
-    "forks_count": 40
+    "stargazers_count": 1249,
+    "open_issues_count": 33,
+    "forks_count": 39
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1324,
+    "stargazers_count": 1330,
     "open_issues_count": 8,
     "forks_count": 83
   },
   {
     "full_name": "ners/trilby",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 7,
     "forks_count": 8
   },
   {
     "full_name": "Misterio77/nix-starter-configs",
-    "stargazers_count": 2316,
+    "stargazers_count": 2327,
     "open_issues_count": 20,
     "forks_count": 120
   },
@@ -121,25 +121,25 @@
   },
   {
     "full_name": "Aylur/dotfiles",
-    "stargazers_count": 2321,
-    "open_issues_count": 12,
-    "forks_count": 120
+    "stargazers_count": 2335,
+    "open_issues_count": 10,
+    "forks_count": 121
   },
   {
     "full_name": "NixOS/nixfmt",
-    "stargazers_count": 744,
-    "open_issues_count": 36,
-    "forks_count": 28
+    "stargazers_count": 747,
+    "open_issues_count": 31,
+    "forks_count": 29
   },
   {
     "full_name": "ryan4yin/nixos-and-flakes-book",
-    "stargazers_count": 1749,
+    "stargazers_count": 1755,
     "open_issues_count": 6,
-    "forks_count": 89
+    "forks_count": 91
   },
   {
     "full_name": "colemickens/nixcfg",
-    "stargazers_count": 353,
+    "stargazers_count": 354,
     "open_issues_count": 11,
     "forks_count": 9
   },
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "nix-community/nixdoc",
-    "stargazers_count": 120,
+    "stargazers_count": 121,
     "open_issues_count": 6,
     "forks_count": 14
   },
   {
     "full_name": "nix-community/disko",
-    "stargazers_count": 1529,
-    "open_issues_count": 108,
-    "forks_count": 170
+    "stargazers_count": 1536,
+    "open_issues_count": 110,
+    "forks_count": 173
   },
   {
     "full_name": "nix-community/pyproject.nix",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "nix-community/impermanence",
-    "stargazers_count": 1042,
+    "stargazers_count": 1043,
     "open_issues_count": 69,
     "forks_count": 78
   },
   {
     "full_name": "wimpysworld/nix-config",
-    "stargazers_count": 343,
-    "open_issues_count": 0,
-    "forks_count": 19
+    "stargazers_count": 345,
+    "open_issues_count": 1,
+    "forks_count": 20
   }
 ]
