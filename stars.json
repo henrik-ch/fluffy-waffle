@@ -2,7 +2,7 @@
   {
     "full_name": "andir/npins",
     "stargazers_count": 170,
-    "open_issues_count": 33,
+    "open_issues_count": 32,
     "forks_count": 14
   },
   {
@@ -13,21 +13,21 @@
   },
   {
     "full_name": "eza-community/eza",
-    "stargazers_count": 10329,
-    "open_issues_count": 213,
-    "forks_count": 179
+    "stargazers_count": 10417,
+    "open_issues_count": 214,
+    "forks_count": 178
   },
   {
     "full_name": "BottlecapDave/HomeAssistant-OctopusEnergy",
-    "stargazers_count": 547,
+    "stargazers_count": 549,
     "open_issues_count": 26,
     "forks_count": 52
   },
   {
     "full_name": "sigoden/aichat",
-    "stargazers_count": 3526,
+    "stargazers_count": 3552,
     "open_issues_count": 1,
-    "forks_count": 235
+    "forks_count": 239
   },
   {
     "full_name": "djacu/nixos-modules-lessons",
@@ -49,33 +49,33 @@
   },
   {
     "full_name": "thiagokokada/nix-configs",
-    "stargazers_count": 97,
+    "stargazers_count": 98,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "OpenInterpreter/open-interpreter",
-    "stargazers_count": 51387,
-    "open_issues_count": 192,
-    "forks_count": 4497
+    "stargazers_count": 51445,
+    "open_issues_count": 193,
+    "forks_count": 4493
   },
   {
     "full_name": "tazjin/nix-1p",
-    "stargazers_count": 892,
+    "stargazers_count": 894,
     "open_issues_count": 7,
     "forks_count": 24
   },
   {
     "full_name": "mechatroner/vscode_rainbow_csv",
-    "stargazers_count": 406,
+    "stargazers_count": 407,
     "open_issues_count": 43,
     "forks_count": 50
   },
   {
     "full_name": "Stirling-Tools/Stirling-PDF",
-    "stargazers_count": 35966,
-    "open_issues_count": 174,
-    "forks_count": 2682
+    "stargazers_count": 37236,
+    "open_issues_count": 189,
+    "forks_count": 2791
   },
   {
     "full_name": "infinisil/sanix",
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "oxalica/nil",
-    "stargazers_count": 1249,
+    "stargazers_count": 1257,
     "open_issues_count": 33,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1330,
+    "stargazers_count": 1337,
     "open_issues_count": 8,
     "forks_count": 83
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "Misterio77/nix-starter-configs",
-    "stargazers_count": 2327,
+    "stargazers_count": 2344,
     "open_issues_count": 20,
     "forks_count": 120
   },
@@ -121,25 +121,25 @@
   },
   {
     "full_name": "Aylur/dotfiles",
-    "stargazers_count": 2335,
-    "open_issues_count": 10,
-    "forks_count": 121
+    "stargazers_count": 2345,
+    "open_issues_count": 9,
+    "forks_count": 123
   },
   {
     "full_name": "NixOS/nixfmt",
-    "stargazers_count": 747,
-    "open_issues_count": 31,
+    "stargazers_count": 757,
+    "open_issues_count": 32,
     "forks_count": 29
   },
   {
     "full_name": "ryan4yin/nixos-and-flakes-book",
-    "stargazers_count": 1755,
+    "stargazers_count": 1764,
     "open_issues_count": 6,
     "forks_count": 91
   },
   {
     "full_name": "colemickens/nixcfg",
-    "stargazers_count": 354,
+    "stargazers_count": 355,
     "open_issues_count": 11,
     "forks_count": 9
   },
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "nix-community/nixdoc",
-    "stargazers_count": 121,
+    "stargazers_count": 122,
     "open_issues_count": 6,
     "forks_count": 14
   },
   {
     "full_name": "nix-community/disko",
-    "stargazers_count": 1536,
+    "stargazers_count": 1548,
     "open_issues_count": 110,
     "forks_count": 173
   },
   {
     "full_name": "nix-community/pyproject.nix",
-    "stargazers_count": 97,
+    "stargazers_count": 98,
     "open_issues_count": 5,
     "forks_count": 7
   },
   {
     "full_name": "nix-community/impermanence",
-    "stargazers_count": 1043,
+    "stargazers_count": 1052,
     "open_issues_count": 69,
     "forks_count": 78
   },
   {
     "full_name": "wimpysworld/nix-config",
-    "stargazers_count": 345,
-    "open_issues_count": 1,
+    "stargazers_count": 347,
+    "open_issues_count": 0,
     "forks_count": 20
   }
 ]
