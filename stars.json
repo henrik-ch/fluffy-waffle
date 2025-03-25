@@ -1,31 +1,31 @@
 [
   {
     "full_name": "casey/just",
-    "stargazers_count": 24409,
-    "open_issues_count": 270,
-    "forks_count": 526
+    "stargazers_count": 24472,
+    "open_issues_count": 272,
+    "forks_count": 527
   },
   {
     "full_name": "astral-sh/ruff",
-    "stargazers_count": 36964,
-    "open_issues_count": 1409,
-    "forks_count": 1253
+    "stargazers_count": 37136,
+    "open_issues_count": 1424,
+    "forks_count": 1259
   },
   {
     "full_name": "anthropics/courses",
-    "stargazers_count": 9668,
+    "stargazers_count": 9692,
     "open_issues_count": 47,
-    "forks_count": 850
+    "forks_count": 854
   },
   {
     "full_name": "afadil/wealthfolio",
-    "stargazers_count": 5022,
-    "open_issues_count": 66,
+    "stargazers_count": 5032,
+    "open_issues_count": 68,
     "forks_count": 263
   },
   {
     "full_name": "andir/npins",
-    "stargazers_count": 280,
+    "stargazers_count": 287,
     "open_issues_count": 23,
     "forks_count": 20
   },
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "eza-community/eza",
-    "stargazers_count": 14571,
-    "open_issues_count": 275,
-    "forks_count": 270
+    "stargazers_count": 14638,
+    "open_issues_count": 279,
+    "forks_count": 271
   },
   {
     "full_name": "BottlecapDave/HomeAssistant-OctopusEnergy",
-    "stargazers_count": 689,
-    "open_issues_count": 33,
+    "stargazers_count": 692,
+    "open_issues_count": 30,
     "forks_count": 71
   },
   {
     "full_name": "sigoden/aichat",
-    "stargazers_count": 6107,
-    "open_issues_count": 0,
-    "forks_count": 392
+    "stargazers_count": 6142,
+    "open_issues_count": 1,
+    "forks_count": 396
   },
   {
     "full_name": "djacu/nixos-modules-lessons",
@@ -73,49 +73,49 @@
   },
   {
     "full_name": "thiagokokada/nix-configs",
-    "stargazers_count": 107,
+    "stargazers_count": 108,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "OpenInterpreter/open-interpreter",
-    "stargazers_count": 58844,
-    "open_issues_count": 255,
-    "forks_count": 5015
+    "stargazers_count": 58895,
+    "open_issues_count": 253,
+    "forks_count": 5018
   },
   {
     "full_name": "tazjin/nix-1p",
-    "stargazers_count": 938,
+    "stargazers_count": 939,
     "open_issues_count": 7,
     "forks_count": 24
   },
   {
     "full_name": "mechatroner/vscode_rainbow_csv",
-    "stargazers_count": 455,
+    "stargazers_count": 456,
     "open_issues_count": 58,
     "forks_count": 60
   },
   {
     "full_name": "Stirling-Tools/Stirling-PDF",
-    "stargazers_count": 54474,
-    "open_issues_count": 222,
-    "forks_count": 4528
+    "stargazers_count": 54815,
+    "open_issues_count": 228,
+    "forks_count": 4553
   },
   {
     "full_name": "infinisil/sanix",
-    "stargazers_count": 67,
+    "stargazers_count": 68,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "oxalica/nil",
-    "stargazers_count": 1463,
+    "stargazers_count": 1469,
     "open_issues_count": 35,
     "forks_count": 45
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 2319,
+    "stargazers_count": 2347,
     "open_issues_count": 23,
     "forks_count": 143
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "Misterio77/nix-starter-configs",
-    "stargazers_count": 2957,
+    "stargazers_count": 2967,
     "open_issues_count": 24,
     "forks_count": 156
   },
@@ -145,25 +145,25 @@
   },
   {
     "full_name": "Aylur/dotfiles",
-    "stargazers_count": 2734,
+    "stargazers_count": 2743,
     "open_issues_count": 0,
     "forks_count": 141
   },
   {
     "full_name": "NixOS/nixfmt",
-    "stargazers_count": 1062,
+    "stargazers_count": 1066,
     "open_issues_count": 27,
     "forks_count": 48
   },
   {
     "full_name": "ryan4yin/nixos-and-flakes-book",
-    "stargazers_count": 2338,
+    "stargazers_count": 2345,
     "open_issues_count": 11,
     "forks_count": 114
   },
   {
     "full_name": "colemickens/nixcfg",
-    "stargazers_count": 414,
+    "stargazers_count": 415,
     "open_issues_count": 12,
     "forks_count": 9
   },
