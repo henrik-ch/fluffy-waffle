@@ -1,50 +1,50 @@
 [
   {
     "full_name": "LibreCAD/LibreCAD",
-    "stargazers_count": 4948,
-    "open_issues_count": 516,
-    "forks_count": 1075
+    "stargazers_count": 4963,
+    "open_issues_count": 518,
+    "forks_count": 1074
   },
   {
     "full_name": "jsebrech/plainvanilla",
-    "stargazers_count": 481,
-    "open_issues_count": 2,
-    "forks_count": 18
+    "stargazers_count": 490,
+    "open_issues_count": 3,
+    "forks_count": 19
   },
   {
     "full_name": "openai/codex",
-    "stargazers_count": 26733,
-    "open_issues_count": 333,
-    "forks_count": 2692
+    "stargazers_count": 27154,
+    "open_issues_count": 358,
+    "forks_count": 2787
   },
   {
     "full_name": "casey/just",
-    "stargazers_count": 25508,
-    "open_issues_count": 312,
+    "stargazers_count": 25602,
+    "open_issues_count": 322,
     "forks_count": 546
   },
   {
     "full_name": "astral-sh/ruff",
-    "stargazers_count": 39291,
-    "open_issues_count": 1429,
-    "forks_count": 1356
+    "stargazers_count": 39439,
+    "open_issues_count": 1435,
+    "forks_count": 1368
   },
   {
     "full_name": "anthropics/courses",
-    "stargazers_count": 11649,
+    "stargazers_count": 11916,
     "open_issues_count": 56,
-    "forks_count": 1051
+    "forks_count": 1068
   },
   {
     "full_name": "afadil/wealthfolio",
-    "stargazers_count": 5114,
-    "open_issues_count": 78,
+    "stargazers_count": 5127,
+    "open_issues_count": 73,
     "forks_count": 268
   },
   {
     "full_name": "andir/npins",
     "stargazers_count": 328,
-    "open_issues_count": 20,
+    "open_issues_count": 22,
     "forks_count": 27
   },
   {
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "eza-community/eza",
-    "stargazers_count": 15462,
-    "open_issues_count": 252,
+    "stargazers_count": 15546,
+    "open_issues_count": 248,
     "forks_count": 294
   },
   {
     "full_name": "BottlecapDave/HomeAssistant-OctopusEnergy",
-    "stargazers_count": 714,
-    "open_issues_count": 31,
+    "stargazers_count": 717,
+    "open_issues_count": 30,
     "forks_count": 77
   },
   {
     "full_name": "sigoden/aichat",
-    "stargazers_count": 6802,
-    "open_issues_count": 0,
-    "forks_count": 441
+    "stargazers_count": 6835,
+    "open_issues_count": 1,
+    "forks_count": 443
   },
   {
     "full_name": "djacu/nixos-modules-lessons",
@@ -97,27 +97,27 @@
   },
   {
     "full_name": "OpenInterpreter/open-interpreter",
-    "stargazers_count": 59468,
-    "open_issues_count": 264,
-    "forks_count": 5063
+    "stargazers_count": 59515,
+    "open_issues_count": 265,
+    "forks_count": 5066
   },
   {
     "full_name": "tazjin/nix-1p",
-    "stargazers_count": 951,
+    "stargazers_count": 952,
     "open_issues_count": 7,
     "forks_count": 24
   },
   {
     "full_name": "mechatroner/vscode_rainbow_csv",
-    "stargazers_count": 472,
-    "open_issues_count": 63,
-    "forks_count": 65
+    "stargazers_count": 474,
+    "open_issues_count": 64,
+    "forks_count": 67
   },
   {
     "full_name": "Stirling-Tools/Stirling-PDF",
-    "stargazers_count": 60018,
-    "open_issues_count": 250,
-    "forks_count": 5039
+    "stargazers_count": 60309,
+    "open_issues_count": 261,
+    "forks_count": 5067
   },
   {
     "full_name": "infinisil/sanix",
@@ -127,27 +127,27 @@
   },
   {
     "full_name": "oxalica/nil",
-    "stargazers_count": 1544,
+    "stargazers_count": 1549,
     "open_issues_count": 39,
     "forks_count": 46
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 2606,
+    "stargazers_count": 2622,
     "open_issues_count": 24,
-    "forks_count": 159
+    "forks_count": 160
   },
   {
     "full_name": "ners/trilby",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 5,
     "forks_count": 8
   },
   {
     "full_name": "Misterio77/nix-starter-configs",
-    "stargazers_count": 3129,
+    "stargazers_count": 3145,
     "open_issues_count": 25,
-    "forks_count": 162
+    "forks_count": 163
   },
   {
     "full_name": "ryantm/dotfiles",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "Aylur/dotfiles",
-    "stargazers_count": 2825,
+    "stargazers_count": 2830,
     "open_issues_count": 0,
     "forks_count": 137
   },
   {
     "full_name": "NixOS/nixfmt",
-    "stargazers_count": 1147,
+    "stargazers_count": 1151,
     "open_issues_count": 30,
     "forks_count": 56
   },
   {
     "full_name": "ryan4yin/nixos-and-flakes-book",
-    "stargazers_count": 2486,
-    "open_issues_count": 10,
+    "stargazers_count": 2494,
+    "open_issues_count": 11,
     "forks_count": 121
   }
 ]
