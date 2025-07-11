@@ -1,50 +1,50 @@
 [
   {
     "full_name": "LibreCAD/LibreCAD",
-    "stargazers_count": 5069,
-    "open_issues_count": 558,
-    "forks_count": 1097
+    "stargazers_count": 5071,
+    "open_issues_count": 567,
+    "forks_count": 1099
   },
   {
     "full_name": "jsebrech/plainvanilla",
-    "stargazers_count": 517,
+    "stargazers_count": 519,
     "open_issues_count": 2,
-    "forks_count": 21
+    "forks_count": 20
   },
   {
     "full_name": "openai/codex",
-    "stargazers_count": 30544,
-    "open_issues_count": 544,
-    "forks_count": 3495
+    "stargazers_count": 30722,
+    "open_issues_count": 557,
+    "forks_count": 3524
   },
   {
     "full_name": "casey/just",
-    "stargazers_count": 26343,
+    "stargazers_count": 26433,
     "open_issues_count": 305,
-    "forks_count": 561
+    "forks_count": 563
   },
   {
     "full_name": "astral-sh/ruff",
-    "stargazers_count": 40628,
-    "open_issues_count": 1567,
-    "forks_count": 1425
+    "stargazers_count": 40707,
+    "open_issues_count": 1577,
+    "forks_count": 1431
   },
   {
     "full_name": "anthropics/courses",
-    "stargazers_count": 16399,
-    "open_issues_count": 61,
-    "forks_count": 1434
+    "stargazers_count": 16459,
+    "open_issues_count": 62,
+    "forks_count": 1445
   },
   {
     "full_name": "afadil/wealthfolio",
-    "stargazers_count": 5231,
+    "stargazers_count": 5235,
     "open_issues_count": 76,
-    "forks_count": 274
+    "forks_count": 275
   },
   {
     "full_name": "andir/npins",
     "stargazers_count": 346,
-    "open_issues_count": 25,
+    "open_issues_count": 24,
     "forks_count": 29
   },
   {
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "eza-community/eza",
-    "stargazers_count": 16195,
-    "open_issues_count": 261,
+    "stargazers_count": 16261,
+    "open_issues_count": 266,
     "forks_count": 304
   },
   {
     "full_name": "BottlecapDave/HomeAssistant-OctopusEnergy",
-    "stargazers_count": 733,
+    "stargazers_count": 735,
     "open_issues_count": 32,
     "forks_count": 78
   },
   {
     "full_name": "sigoden/aichat",
-    "stargazers_count": 7263,
-    "open_issues_count": 0,
+    "stargazers_count": 7312,
+    "open_issues_count": 1,
     "forks_count": 479
   },
   {
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "OpenInterpreter/open-interpreter",
-    "stargazers_count": 59878,
-    "open_issues_count": 270,
-    "forks_count": 5099
+    "stargazers_count": 59902,
+    "open_issues_count": 271,
+    "forks_count": 5106
   },
   {
     "full_name": "tazjin/nix-1p",
-    "stargazers_count": 957,
+    "stargazers_count": 958,
     "open_issues_count": 7,
     "forks_count": 25
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "Stirling-Tools/Stirling-PDF",
-    "stargazers_count": 63102,
-    "open_issues_count": 309,
-    "forks_count": 5346
+    "stargazers_count": 63214,
+    "open_issues_count": 315,
+    "forks_count": 5370
   },
   {
     "full_name": "infinisil/sanix",
@@ -127,27 +127,27 @@
   },
   {
     "full_name": "oxalica/nil",
-    "stargazers_count": 1598,
+    "stargazers_count": 1600,
     "open_issues_count": 24,
     "forks_count": 49
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 2763,
+    "stargazers_count": 2776,
     "open_issues_count": 25,
     "forks_count": 164
   },
   {
     "full_name": "ners/trilby",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 5,
     "forks_count": 8
   },
   {
     "full_name": "Misterio77/nix-starter-configs",
-    "stargazers_count": 3221,
+    "stargazers_count": 3229,
     "open_issues_count": 26,
-    "forks_count": 163
+    "forks_count": 164
   },
   {
     "full_name": "ryantm/dotfiles",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "Aylur/dotfiles",
-    "stargazers_count": 2886,
+    "stargazers_count": 2896,
     "open_issues_count": 1,
     "forks_count": 139
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "ryan4yin/nixos-and-flakes-book",
-    "stargazers_count": 2608,
+    "stargazers_count": 2611,
     "open_issues_count": 9,
-    "forks_count": 124
+    "forks_count": 123
   }
 ]
