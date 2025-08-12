@@ -7,9 +7,9 @@
   },
   {
     "full_name": "freeCodeCamp/devdocs",
-    "stargazers_count": 36825,
-    "open_issues_count": 223,
-    "forks_count": 2456
+    "stargazers_count": 36834,
+    "open_issues_count": 225,
+    "forks_count": 2454
   },
   {
     "full_name": "henrik-ch/open-sauced-goals",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 8390,
-    "open_issues_count": 93,
+    "stargazers_count": 8395,
+    "open_issues_count": 85,
     "forks_count": 304
   },
   {
     "full_name": "nix-community/poetry2nix",
-    "stargazers_count": 926,
+    "stargazers_count": 927,
     "open_issues_count": 185,
     "forks_count": 462
   },
@@ -33,6 +33,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 952,
     "open_issues_count": 0,
-    "forks_count": 1144
+    "forks_count": 1146
   }
 ]
